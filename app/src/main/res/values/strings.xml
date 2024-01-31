@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Curso</string>
+    <string name="texto_arriba">Its a match!</string>
+    <string name="texto_abajo">You and Julissa have liked each other</string>
+    <string name="boton_arriba">Message her</string>
+    <string name="boton_abajo">Keep swiping</string>
 </resources>
